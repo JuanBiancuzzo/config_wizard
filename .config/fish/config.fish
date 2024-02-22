@@ -6,6 +6,9 @@ set EDITOR /usr/bin/nvim # seteando nvim como editor
 ###--- MANPAGER ---###
 set -x MANPAGER "nvim +Man!"
 
+###--- Prompt ---###
+source ~/.config/fish/functions/prompt.fish
+
 ###--- Key bindings ---###
 function fish_user_key_bindings
     fish_vi_key_bindings
