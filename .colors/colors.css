@@ -1,6 +1,7 @@
 @define-color foreground #bfbfbf;
 @define-color background #000001;
 @define-color cursor #bfbfbf;
+@define-color border #ffffff;
 
 @define-color color0 #000001;
 @define-color color1 #525249;
