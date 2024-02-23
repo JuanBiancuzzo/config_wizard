@@ -134,12 +134,9 @@ window#waybar.empty #window {
  * Custom Quicklinks
  * ----------------------------------------------------- */
 
-#custom-brave, 
-#custom-outlook,
 #custom-filemanager,
-#custom-teams,
 #custom-chat,
-#custom-calculator,
+#custom-wifi,
 #custom-windowsvm,
 #custom-cliphist {
     margin-right:20px;
