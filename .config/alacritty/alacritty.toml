@@ -1,0 +1,21 @@
+# Cursor style
+[cursor.style]
+shape = "Beam"
+
+[shell]
+program = "/bin/fish"
+
+# Font settings
+[font]
+size = 10
+
+# Window settings
+[window]
+opacity = 0.9
+
+[window.padding]
+x = 15
+y = 15
+
+# theme
+# import = ["~/.config/alacritty/themes/catppuccin_mocha.toml"]
