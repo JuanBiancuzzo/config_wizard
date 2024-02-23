@@ -27,6 +27,7 @@
         "group/hardware",
         "hyprland/language",
         // "network",
+        "custom/wifi",
         "clock", 
         "custom/exit",
     ],
@@ -165,6 +166,11 @@
     "custom/appmenu": {
         "format": "Apps",
         "on-click": "~/.config/rofi/launch.sh",
+        "tooltip": false,
+    },
+    "custom/wifi": {
+        "format": "",
+        "on-click": "~/.config/bin/rofi-wifi-menu.sh",
         "tooltip": false,
     }
 }
