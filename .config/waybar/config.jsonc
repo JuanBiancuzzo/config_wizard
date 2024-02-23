@@ -36,12 +36,7 @@
         "disable-scroll": true,
         "all-outputs": true,
         "active-only": false,
-        "format": "{icon}",
-        "format-icons": {
-            "urgent": "",
-            "focused": "",
-            "default": ""
-        },
+        "format": "{name}",
         "persistent-workspaces": {
             "*": 1, 
         }

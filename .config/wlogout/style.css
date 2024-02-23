@@ -1,7 +1,7 @@
 @import '../../.colors/colors.css';
 
 * {
-    font-family: "Fira Sans Semibold", FontAwesome, Roboto, Helvetica, Arial, sans-serif;
+    font-family: "System San Francisco Display", FontAwesome4;
 	background-image: none;
 	transition: 20ms;
 }
@@ -13,6 +13,10 @@ window {
 button {
 	color: #FFFFFF;
     font-size:20px;
+
+	margin: 10px 10px 0px 10px;
+    padding: 10px 10px 0px 10px;
+	border-radius: 20px;
 
     background-repeat: no-repeat;
 	background-position: center;
@@ -40,38 +44,26 @@ Buttons
 */
 
 #lock {
-	margin: 10px;
-	border-radius: 20px;
 	background-image: image(url("icons/lock.png"));
 }
 
 #logout {
-	margin: 10px;
-	border-radius: 20px;
 	background-image: image(url("icons/logout.png"));
 }
 
 #suspend {
-	margin: 10px;
-	border-radius: 20px;
 	background-image: image(url("icons/suspend.png"));
 }
 
 #hibernate {
-	margin: 10px;
-	border-radius: 20px;
 	background-image: image(url("icons/hiberate.png"));
 }
 
 #shutdown {
-	margin: 10px;
-	border-radius: 20px;
 	background-image: image(url("icons/shutdown.png"));
 }
 
 #reboot {
-	margin: 10px;
-	border-radius: 20px;
 	background-image: image(url("icons/reboot.png"));
 }
 
