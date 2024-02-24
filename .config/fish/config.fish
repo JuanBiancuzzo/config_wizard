@@ -15,6 +15,7 @@ function fish_user_key_bindings
 end
 
 ###--- Colores ---###
+# Crearlo a partir del fondo de pantalla, con source
 set fish_color_normal brcyan
 set fish_color_autosuggestion '#7d7d7d'
 set fish_color_command brcyan
@@ -27,11 +28,12 @@ set -x PATH ~/.cargo/bin:~/.local/bin $PATH
 ###--- Aliases ---###
 
 #####--- Navegacion ---#####
+zoxide init --cmd cd fish | source
 alias ..='cd ..'
 alias ...='cd ../..'
 alias .3='cd ../../..'
 alias .4='cd ../../../..'
 alias .5='cd ../../../../..'
 
-#####--- Nvim ---#####
-alias vim='nvim'
+# Generated for envman. Do not edit.
+test -s ~/.config/envman/load.fish; and source ~/.config/envman/load.fish
