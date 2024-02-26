@@ -8,6 +8,7 @@ program = "/bin/fish"
 # Font settings
 [font]
 size = 10
+size = 11
 
 # Window settings
 [window]
