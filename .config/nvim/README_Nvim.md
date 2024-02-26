@@ -11,3 +11,4 @@
  * https://github.com/ThePrimeagen/harpoon
  * https://github.com/mbbill/undotree
  * https://github.com/folke/noice.nvim
+ * https://github.com/kdheepak/lazygit.nvim

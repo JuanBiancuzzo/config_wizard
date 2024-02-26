@@ -7,8 +7,19 @@ program = "/bin/fish"
 
 # Font settings
 [font]
-size = 10
 size = 11
+
+# [font.normal]
+# family = "FontAwesome4"
+# style = "Regular"
+# 
+# [font.bold]
+# family = "FontAwesome4"
+# style = "Bold"
+# 
+# [font.italic]
+# family = "FontAwesome4"
+# style = "Italic"
 
 # Window settings
 [window]
