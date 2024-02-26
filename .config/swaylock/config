@@ -1,0 +1,55 @@
+ignore-empty-password
+font=Ubuntu
+
+clock
+timestr=%R
+datestr=%a, %e de %B
+
+# cambiarlo a .cache/wallpaper_actual
+image=~/wallpapers/win.jpg
+
+fade-in=0.2
+
+# Efectos
+# effect-pixelate=5
+# effect-greyscale
+effect-blur=20x6
+effect-scale=0.3
+
+indicator
+indicator-radius=100
+indicator-thickness=12
+indicator-caps-lock
+
+# Colores
+key-hl-color=00000066
+separator-color=00000000
+
+inside-color=00000033
+inside-clear-color=ffffff00
+inside-caps-lock-color=ffffff00
+inside-ver-color=ffffff00
+inside-wrong-color=ffffff00
+
+ring-color=ffffffff
+ring-clear-color=ffffffff
+ring-caps-lock-color=ffffffff
+ring-ver-color=ffffffff
+ring-wrong-color=ffffffff
+
+line-color=00000000
+line-clear-color=ffffffff
+line-caps-lock-color=ffffffff
+line-ver-color=ffffffff
+line-wrong-color=ffffffff
+
+text-color=ffffffff
+text-clear-color=ffffffff
+text-ver-color=ffffffff
+text-wrong-color=ffffffff
+
+bs-hl-color=ffffffff
+caps-lock-key-hl-color=ffffffff
+caps-lock-bs-hl-color=ffffffff
+disable-caps-lock-text
+text-caps-lock-color=ffffff

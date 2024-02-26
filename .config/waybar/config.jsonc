@@ -9,10 +9,10 @@
     // Choose the order of the modules
     "modules-left": [
         "custom/appmenu",
-        "hyprland/mode",
+        // "hyprland/mode",
         "custom/chat",
-        "wlr/scratchpad", 
-        "custom/media",
+        // "wlr/scratchpad", 
+        // "custom/media",
         "hyprland/window"
     ],
 
@@ -24,7 +24,7 @@
         "pulseaudio",
         // "bluetooth",
         // "battery",
-        "group/hardware",
+        // "group/hardware",
         "hyprland/language",
         // "network",
         "custom/wifi",
