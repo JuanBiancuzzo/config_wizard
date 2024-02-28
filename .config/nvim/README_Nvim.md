@@ -20,32 +20,32 @@
 
 | Acción                                             | Keybind    |
 | -------------------------------------------------- | ---------- |
-| File explorer                                      | <leader>fv |
-| Pegar sin reemplazar el buffer                     | <leader>p  |
-| Copiar a clipboard desde normal                    | <leader>y  |
-| Copiar a clipboard desde selección                 | <leader>y  |
-| Copiar hasta el final al clipboard desde normal    | <leader>Y  |
-| Copiar hasta el final al clipboard desde selección | <leader>Y  |
-| Reemplazar texto debajo del cursor                 | <leader>s  |
+| File explorer                                      | \<leader\>fv |
+| Pegar sin reemplazar el buffer                     | \<leader\>p  |
+| Copiar a clipboard desde normal                    | \<leader\>y  |
+| Copiar a clipboard desde selección                 | \<leader\>y  |
+| Copiar hasta el final al clipboard desde normal    | \<leader\>Y  |
+| Copiar hasta el final al clipboard desde selección | \<leader\>Y  |
+| Reemplazar texto debajo del cursor                 | \<leader\>s  |
 ### Ventana
 
 | Acción                                 | Keybind    |
 | -------------------------------------- | ---------- |
-| Cerrar ventana                         | <leader>wq |
-| Split ventana vertical                 | <leader>wv |
-| Split ventana horizontal               | <leader>ws |
-| Guardar la ventana activa              | <leader>ww |
-| Mover hacia la ventana de la derecha   | <C-h>      |
-| Mover hacia la ventana de abajo        | <C-j>      |
-| Mover hacia la ventana de abajo        | <C-k>      |
-| Mover hacia la ventana de la izquierda | <C-l>      |
+| Cerrar ventana                         | \<leader\>wq |
+| Split ventana vertical                 | \<leader\>wv |
+| Split ventana horizontal               | \<leader\>ws |
+| Guardar la ventana activa              | \<leader\>ww |
+| Mover hacia la ventana de la derecha   | \<C-h\>      |
+| Mover hacia la ventana de abajo        | \<C-j\>      |
+| Mover hacia la ventana de abajo        | \<C-k\>      |
+| Mover hacia la ventana de la izquierda | \<C-l\>      |
 
 ### Harpoon
 
 | Acción          | Keybind   |
 | --------------- | --------- |
-| Quick menu      | <C-e>     |
-| Agregar archivo | <leader>a |
+| Quick menu      | \<C-e\>     |
+| Agregar archivo | \<leader\>a |
 
 ### Lazy git
 
@@ -56,6 +56,7 @@
 | ------------------ | ----------- |
 | Ir a la definición | gd          |
 | Hover              | K           |
-| Encontrar simbolos | <leader>vws |
-| Diagnostico        | <leader>vd  |
+| Encontrar simbolos | \<leader\>vws |
+| Diagnostico        | \<leader\>vd  |
 |                    |             |
+
