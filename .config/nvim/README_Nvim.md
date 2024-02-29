@@ -2,16 +2,16 @@
 
 ## Plugins
 
- * Package manager: [https://github.com/folke/lazy.nvim](github.com/folke/lazy.nvim)
- * Theme: [https://github.com/catppuccin/nvim](github.com/catppuccin/nvim) 
- * File search: [https://github.com/nvim-telescope/telescope.nvim](github.com/nvim-telescope/telescope.nvim)
- * Parser: [https://github.com/nvim-treesitter/nvim-treesitter](github.com/nvim-treesitter)
- * LSP: [https://github.com/VonHeikemen/lsp-zero.nvim/tree/main](github.com/VonHeikemen/lsp-zero.nvim/tree/main)
- * Harpoon: [https://github.com/ThePrimeagen/harpoon](github.com/ThePrimeagen/harpoon)
- * Undo: [https://github.com/mbbill/undotree](github.com/mbbill/undotree)
- * Notifications: [https://github.com/folke/noice.nvim](github.com/folke/noice.nvim)
- * Git: [https://github.com/kdheepak/lazygit.nvim](github.com/kdheepak/lazygit.nvim)
- * Extra: [https://github.com/nvim-telescope/telescope-ui-select.nvim](github.com/nvim-telescope/telescope-ui-select.nvim)
+ * Package manager: [github.com/folke/lazy.nvim](https://github.com/folke/lazy.nvim)
+ * Theme: [github.com/catppuccin/nvim](https://github.com/catppuccin/nvim) 
+ * File search: [github.com/nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+ * Parser: [github.com/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+ * LSP: [github.com/VonHeikemen/lsp-zero.nvim/tree/main](https://github.com/VonHeikemen/lsp-zero.nvim/tree/main)
+ * Harpoon: [github.com/ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon)
+ * Undo: [github.com/mbbill/undotree](https://github.com/mbbill/undotree)
+ * Notifications: [github.com/folke/noice.nvim](https://github.com/folke/noice.nvim)
+ * Git: [github.com/kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim)
+ * Extra: [github.com/nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim)
 
 
 ## Keybindings
