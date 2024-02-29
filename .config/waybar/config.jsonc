@@ -42,6 +42,13 @@
             "*": 1, 
         }
     },
+    "hyprland/language": {
+        "format": "{}",
+        "format-en": "English (en)",
+        "format-es": "Español (es)",
+        "on-click": "hyprctl switchxkblayout sonix-draconic next
+",
+    },
     "keyboard-state": {
         "numlock": true,
         "capslock": true,
@@ -118,7 +125,7 @@
         "format": "{volume}% {icon}", //{format_source}
         "format-bluetooth": "{volume}% {icon} {format_source}",
         "format-bluetooth-muted": " {icon} {format_source}",
-        "format-muted": " {format_source}",
+        "format-muted": "Mute",
         "format-source": "{volume}% ",
         "format-source-muted": "",
         "format-icons": {
@@ -129,7 +136,7 @@
             "portable": "",
             "default": ["", "", ""]
         },
-        "on-click": "pavucontrol"
+        "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle"
     },
     "group/hardware": {
         "orientation": "horizontal",
