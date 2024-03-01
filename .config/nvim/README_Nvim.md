@@ -11,6 +11,7 @@
  * Undo: [github.com/mbbill/undotree](https://github.com/mbbill/undotree)
  * Notifications: [github.com/folke/noice.nvim](https://github.com/folke/noice.nvim)
  * Git: [github.com/kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim)
+ * Tmux: [github.com/aserowy/tmux.nvim](https://github.com/aserowy/tmux.nvim)
  * Extra: [github.com/nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim)
 
 

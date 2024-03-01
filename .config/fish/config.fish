@@ -23,7 +23,7 @@ set fish_color_error '#7d7d7d'
 set fish_color_param brcyan
 
 ###--- Path ---###
-set -x PATH ~/.cargo/bin:~/.local/bin:~/.config/bin $PATH
+set -x PATH $HOME/.cargo/bin:$HOME/.local/bin:$HOME/.config/bin $PATH
 
 ###--- Aliases ---###
 
