@@ -8,7 +8,7 @@ seleccion=$(echo -e "$lenguajes\n$core_utils" | fzf)
 read -p "Query: " query
 
 if echo "$lenguajes" | grep -qs $seleccion; then
-    curl cht.sh/$seleccion/$(echo "$query" | tr " " "+")
+    tmux neww bash -c "curl cht.sh/$seleccion/$(echo "$query" | tr " " "+") & while [ : ]; do sleep 1; done"
 else
-    curl cht.sh/$seleccion~$query
+    tmux neww bash -c "curl cht.sh/$seleccion~$query & while [ : ]; do sleep 1; done"
 fi
