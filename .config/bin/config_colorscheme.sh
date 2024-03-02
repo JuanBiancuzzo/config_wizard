@@ -1,13 +1,7 @@
-#!/bin/bash
-
-wallpaper=win.jpg
-#wallpaper=the-dog-and-the-dragon.jpg
-
-# definir wallpaper
-swww img ~/wallpapers/$wallpaper
+#!/bin/fish
 
 # generamos el colorscheme
-wal -i ~/wallpapers/$wallpaper
+wal -i $HOME/.cache/wallpaper_actual.jpg
 
 # seteando los colores
 python3 ~/.config/bin/set_colorscheme.py "$HOME/.cache/wal/colors" \
